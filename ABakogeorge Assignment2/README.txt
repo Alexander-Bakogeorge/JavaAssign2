@@ -1,8 +1,7 @@
 //******************************************	//
 //	NAME: ALEXANDER BAKOGEORGE         	//
 //	DATE: April 8th, 2016		    	//
-//	PROGRAM: CPS209 ASSIGNMENT 2		//
-//	ID:500689218							//
+//	PROGRAM: CPS209 ASSIGNMENT 2						//
 //------------------------------------------	//
 //	This program allows the user to draw	//
 //	a train car, rail cars, and a queue of 	//
